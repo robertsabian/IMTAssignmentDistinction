@@ -1,1 +1,5 @@
 Please fill this text file with your details:
+
+Robert Spiteri
+This is some text
+DETAILS
